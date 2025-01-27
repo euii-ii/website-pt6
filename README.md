@@ -18,6 +18,7 @@ HTML: The structure and layout of the website.
 CSS: Styling, including 3D transformations, animations, and responsiveness.
 
 JavaScript: Interactivity, event handling, and dynamic behavior.
+
 Installation
 
 Follow these steps to get a local copy up and running:
